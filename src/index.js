@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Layout from './component/layout';
 
-const container = document.getElementById('root');
+import App from './App';
 
-ReactDOM.render (<Layout/>, container)
+
+const container = document.getElementById('app');
+
+//Ahora el qué es un elemento 
+ReactDOM.render(/*<WelcomePage /> <ChoiceTrivia/>*/ <App/>, container);
+
