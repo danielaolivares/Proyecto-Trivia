@@ -9,7 +9,7 @@ function Layout (props){
 return (
     <React.Fragment>
     <div className="totalContainer">
-    <div className="containerMain col-lg-6 offset-lg-3">
+    <div className="containerMain col-lg-6 offset-lg-3 background-main">
       <Nav/>  
       {props.children}
       </div>

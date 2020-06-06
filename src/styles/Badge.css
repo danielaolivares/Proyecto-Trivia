@@ -13,7 +13,12 @@
     height: 100vh;
     background-color:#FFEFF0;
     display: flex;
-    flex-direction: column;
+    flex-direction: column;   
+}
+.background-main{
+    background-image: url('../images/portada-principal_web.png');
+    background-size: cover;
+    background-position: center center;
 }
 .userSection{
     display: flex;

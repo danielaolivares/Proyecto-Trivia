@@ -1,5 +1,5 @@
 import React from 'react';
-import logoApp from '../images/lenovo-logo.png';
+import logoApp from '../images/logo_v1.png';
 import '../styles/Badge.css';
 //import 'bootstrap/dist/css/bootstrap.css';
 
